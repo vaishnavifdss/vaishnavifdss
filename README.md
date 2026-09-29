@@ -1,7 +1,4 @@
-**Frontend Developer | React.js | TypeScript**
-
-I’m a passionate **Frontend Developer** who enjoys building clean, responsive, and user-friendly web applications.
-
+👋 Hey, I’m vaishnavi 
 * 🔭 Currently working on **React.js & TypeScript projects**
 * 🌱 Continuously learning **React, TypeScript, JavaScript, and modern frontend development**
 * 🛠️ Experienced with **React, TypeScript, JavaScript, Bootstrap, and REST APIs**
