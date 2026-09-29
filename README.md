@@ -18,7 +18,7 @@ Tools          → Git, GitHub, VS Code
 ```
 **🤝 Connect With Me**
 
-[GitHub](https://github.com/vaishnavifdss) · [Email](mailto:hvaishnavigawli03@gmail.com)
+[GitHub](https://github.com/vaishnavifdss) · [Email](mailto:hvaishnavigawli03@gmail.com) · [LinkedIn ](https://www.linkedin.com/in/vaishnavi-gawali-67233632b/)
 
 ---
 
