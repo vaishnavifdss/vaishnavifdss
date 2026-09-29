@@ -18,13 +18,13 @@ I’m a passionate **Frontend Developer** who enjoys building clean, responsive,
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
 </p>
 
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ Frontend       → React.js, TypeScript, JavaScript
 Styling        → Tailwind CSS, Bootstrap, CSS
 State & Data   → REST APIs
 UI             → Responsive Design, Forms, Data Tables
-Tools          → Git, GitHub, VS Code, npm
+Tools          → Git, GitHub, VS Code
 ```
 
 ---
@@ -57,20 +57,12 @@ An agriculture-focused web platform with admin functionality for managing course
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavifdss&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavifdss&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
   <a href="https://github.com/vaishnavifdss">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+   <a href="hvaishnavigawli03@gmail.com">
   </a>
 </p>
 
