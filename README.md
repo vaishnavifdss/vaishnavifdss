@@ -1,5 +1,3 @@
-# Hi there 👋
-
 **Frontend Developer | React.js | TypeScript**
 
 I’m a passionate **Frontend Developer** who enjoys building clean, responsive, and user-friendly web applications.
